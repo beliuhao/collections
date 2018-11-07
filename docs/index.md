@@ -10,6 +10,6 @@
 
 
 
-[df1]: <https://beliuhao.github.io/collections/markdown/>
-[df2]: <https://beliuhao.github.io/collections/markdown2/>
-[df3]: <https://beliuhao.github.io/collections/markdown3/>
+[df1]: <https://beliuhao.github.io/collections/markdown>
+[df2]: <https://beliuhao.github.io/collections/markdown2>
+[df3]: <https://beliuhao.github.io/collections/markdown3>
