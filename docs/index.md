@@ -1,10 +1,10 @@
 # Welcome to Herman's collections.
 
-[2018-11-07-Markdown.md][df1]
+[2018-11-07-Markdown][df1]
 
-[2018-11-07-Markdown2.md][df2]
+[2018-11-07-Markdown2][df2]
 
-[2018-11-07-Markdown3.md][df3]
+[2018-11-07-Markdown3][df3]
 
 
 
